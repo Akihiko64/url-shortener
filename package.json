@@ -2,10 +2,27 @@
   "name": "url-shortener",
   "version": "1.0.0",
   "description": "simple url shortener",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "dev": "nodemon ./app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nacelio M. Barbosa",
-  "license": "ISC"
+  "keywords": [
+    "nodejs",
+    "express",
+    "shortener",
+    "link-short"
+  ],
+  "author": "Nacelio M. Barbosa <naceliombdev@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.3",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
