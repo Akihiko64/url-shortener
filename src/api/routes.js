@@ -1,7 +1,8 @@
 const urls = require('./routes/urls');
+const redirect = require('./routes/redirect');
 
-const routes = {
-    urls
-}
 
-module.exports = routes;
+module.exports = {
+    urls,
+    redirect
+};
