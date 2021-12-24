@@ -2,10 +2,12 @@
 
 ## Simple url shortner build in NodeJs like bitly or shorturl
 
-<div class="icons-container" style="display: flex;">
-    <div class="language-icon"><a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80px"/></a></div>
-    <div class="language-icon"><a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="80px" /></a></div>
-</div>
+<table>
+<tr>
+    <td><div class="language-icon"><a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80px"/></a></div></td>
+    <td><div class="language-icon"><a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="80px" /></a></div></td>
+</tr>
+</table>
 
 **Dependecies:**
 - [Node 16.x ](https://nodejs.org/)
