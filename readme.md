@@ -2,7 +2,7 @@
 
 ## Simple url shortner build in NodeJs like bitly or shorturl
 
-<table>
+<table cellspacing="0" cellpadding="0" style="border:none">
 <tr>
     <td><div class="language-icon"><a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80px"/></a></div></td>
     <td><div class="language-icon"><a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="80px" /></a></div></td>
