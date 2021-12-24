@@ -3,7 +3,7 @@
 ## Simple url shortner build in NodeJs like bitly or shorturl
 
 <div class="icons-container" style="display: flex;">
-    <div class="language-icon"><a href="https://nodejs.org/"><img src="./assets/node.svg" /></a></div>
+    <div class="language-icon"><a href="https://nodejs.org/"><img src="/assets/node.svg" /></a></div>
     <div class="language-icon"><a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a></div>
 </div>
 
@@ -18,10 +18,9 @@
 
 ## **First step - clone the project**
 Clone the github repository into your directory, run the script below on your terminal
-<div class="highlight">
-  <code>git clone git@github.com:Akihiko64/url-shortener.git</code>
-  <!-- <button>Copy</button> -->
-</div>
+
+<code>git clone git@github.com:Akihiko64/url-shortener.git</code>
+
 
 ## **Install the project**
 Install the project, run script below in your terminal
