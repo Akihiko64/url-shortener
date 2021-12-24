@@ -2,8 +2,8 @@
 
 ## Simple url shortner build in NodeJs like bitly or shorturl
 
-<div class="icons-container">
-<div class="language-icon"><a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a></div>
+<div class="icons-container" style="display: flex; justify-content: flex-start;">
+<div class="language-icon" style="width: 100%; max-width: 80px;"><a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a></div>
 <div class="language-icon"><a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a></div>
 </div>
 
