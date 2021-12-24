@@ -2,9 +2,9 @@
   "name": "url-shortener",
   "version": "0.0.1",
   "description": "simple url shortener",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "dev": "nodemon ./index.js",
+    "dev": "nodemon ./app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
