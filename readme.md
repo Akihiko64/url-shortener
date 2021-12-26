@@ -73,9 +73,9 @@ GET http:localhost:3000/{urlId}
 
 
 ```
-POST http:localhost:3000/
+POST http:localhost:3000/api/short
 ```
 
 In request body place json object: {shortid:<your url>}, and aplication returns your short url.
 
-*After generate id for your url, use in route '/' for redirect to real url*
+
