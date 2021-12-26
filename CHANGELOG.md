@@ -6,3 +6,10 @@
 
 - url shortener example
 - test git flow
+
+
+## [2021-12-26] version 1.0.1
+
+### Added
+
+- Readme
