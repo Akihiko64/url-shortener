@@ -61,3 +61,21 @@ Run project with NPM script
 ```
 npm run dev
 ```
+
+
+## **Routes**
+
+```
+GET http:localhost:3000/{urlId}
+```
+
+*After generate id for your url, use in route '/' for redirect to real url*
+
+
+```
+POST http:localhost:3000/
+```
+
+In request body place json object: {shortid:<your url>}, and aplication returns your short url.
+
+*After generate id for your url, use in route '/' for redirect to real url*
